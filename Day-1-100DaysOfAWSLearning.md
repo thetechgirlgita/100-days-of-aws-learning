@@ -3,9 +3,10 @@
 
 <h2>Topics:</h2>
 - Defination <br>
-- History
-- Benefits
-- Types of Cloud Computing
-- Benefits of AWS Security
+- History<br>
+- Benefits<br>
+- Types of Cloud Computing<br>
+- Benefits of AWS Security<br>
 
 <h2>My Notes in simple and easy way: </h2>
+
