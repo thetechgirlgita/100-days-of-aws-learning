@@ -9,6 +9,5 @@
 - Benefits of AWS Security<br>
 
 <h2>My Notes in simple and easy way: </h2>
-
-![AWS page1](Page1.jpg)
+<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Page1.jpg?raw=true">
 
