@@ -10,5 +10,5 @@
 
 <h2>My Notes in simple and easy way: </h2>
 
-![AWS page1](C:\Users\oxford\Pictures\Saved Pictures\Page1.jpg)
+![AWS page1](Page1.jpg)
 
