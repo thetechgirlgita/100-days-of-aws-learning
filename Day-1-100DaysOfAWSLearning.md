@@ -9,6 +9,6 @@
 - Benefits of AWS Security<br>
 
 <h2>My Notes in simple and easy way: </h2>
-<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Page1.jpg?raw=true">
-<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Page2.jpg?raw=true">
-<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Page3.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Day1/Page1.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Day1/Page2.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-Days-Of-AWS-Learning/blob/master/Images/Day1/Page3.jpg?raw=true">
