@@ -13,5 +13,5 @@
   <h2> Notes Are given below in simple and easy way, here you go: </h2>
   
   <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day2/day2.jpg?raw=true" >
-  <img src = " https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day2/day2.1.jpg?raw=true">
-  <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day2/day2.2.jpg?raw=true" >
+  <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day2/day2.1.jpg?raw=true">
+  <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day2/day2.2.jpg?raw=true">
