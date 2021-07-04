@@ -20,5 +20,7 @@
 <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day3/Day3.1.jpg?raw=true">
 <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day3/Day3.2.jpg?raw=true">
 <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day3/Day3.3.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day3/Day3.4.jpg?raw=true">
+
 
 
