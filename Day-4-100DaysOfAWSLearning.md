@@ -3,16 +3,16 @@
 <h2> Topics </h2>
 
 <h3> - Amazon Analytics services</h3>
-       - Amazon Anthena
-          - Introduction
-          - Benefits
-          - How does Amazon Anthena work?
+       - Amazon Anthena <br>
+          - Introduction <br>
+          - Benefits <br>
+          - How does Amazon Anthena work? <br>
   
 <h3> - Amazon Database services: </h3>
-       - Amazon Relational Database Service: 
-          - Introducation
-          - Benefits
-          - Uses Cases
+       - Amazon Relational Database Service:  <br>
+          - Introducation <br>
+          - Benefits <br>
+          - Uses Cases <br>
           
           
           
