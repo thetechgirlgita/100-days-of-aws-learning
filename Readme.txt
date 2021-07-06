@@ -2,16 +2,5 @@
 
 <h2> In this repository you will get notes of related to AWS course fundamentals and its services </h2>
 
-<table>
-<tr>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width="33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-<td width= "33%">
-The quick brown fox jumps over the lazy dog.
-</td>
-</tr>
-</table>
+
+Day 1 (30 June, 2021) Getting Started with AWS [Click Here to see notes](/Day-1-100DaysOfAWSLearning.md)
