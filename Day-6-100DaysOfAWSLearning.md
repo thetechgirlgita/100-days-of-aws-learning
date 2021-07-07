@@ -17,7 +17,7 @@
               
    <h3> Amazon EC2 Console notes </h3>
    
-   <h2 Here you have notes in Simpe and easy way </h2>
+   <h2> Here you have notes in Simpe and easy way </h2>
    
    
    <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day6/6._1(2).jpg?raw=true">
