@@ -8,7 +8,7 @@
   <h3> - Amazon Elastic Compute Cloud (EC2) </h3>
           - Introduction <br>
           - Benefits <br>
-          - Amazon EC2 :- Instances  <br>
+         <h3> - Instances  <br> </h3>
               - Introduction  <br>
               - Types  <br>
               - Pricing model  <br>
