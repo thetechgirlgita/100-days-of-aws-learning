@@ -19,10 +19,12 @@
           
   <h2> Here my notes in simple and easy way: </h2>
   
+  
+ <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day5/day5.1_2.jpg?raw=true">
   <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day5/day5.1_1.jpg?raw=true">
-  <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day5/day5.1_2.jpg?raw=true">
+  
   <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day5/day5.1_3.jpg?raw=true">
-  <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day5/day5.1_3.jpg?raw=true">
+ 
   <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day5/day5.1_5.jpg?raw=true">
   
    
