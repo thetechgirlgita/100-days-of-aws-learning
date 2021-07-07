@@ -13,9 +13,7 @@
               - Types  <br>
               - Pricing model  <br>
               - Application Based Classification  <br>
-              
-              
-   <h3> Amazon EC2 Console notes </h3>
+              - Amazon EC2 Console notes <br>
    
    <h2> Here you have notes in Simpe and easy way </h2>
    
