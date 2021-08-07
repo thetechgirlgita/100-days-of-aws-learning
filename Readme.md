@@ -3,7 +3,7 @@
  
 | Day                            | Date                 | Topic       | Post link |
 | -----------------------------  | -----------          | ----------- |-----------|
-| Day-1-100DaysOfAWSLearning.md  | June 30              |AWS Intro and History             |           |
+| Day-1-100DaysOfAWSLearning.md  | June 30              |AWS Intro and History |           |
 | Day-2-100DaysOfAWSLearning.md  | July 03              |             |           |
 | Day-3-100DaysOfAWSLearning.md  | July 04              |             |           |
 | Day-4-100DaysOfAWSLearning.md  | July 05              |             |           |
