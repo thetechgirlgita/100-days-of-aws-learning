@@ -3,7 +3,7 @@
 
  <h2>  - Amazon Storage services: </h2>
 
-<h3> - Amazon Amazon FSx for Window File Storage</h3>
+<h3> - Amazon Amazon FSx for Window File Server</h3>
           - Introduction <br>
           - Benefits <br>
           - Use Cases <br>
