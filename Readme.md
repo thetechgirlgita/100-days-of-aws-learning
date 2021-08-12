@@ -28,10 +28,14 @@
 | Day-23-100DaysOfAWSLearning.md | July 28              |             |           |
 | Day-24-100DaysOfAWSLearning.md | July 29              |             |           |
 | Day-25-100DaysOfAWSLearning.md | July 30             |             |           |
-| Day-26-100DaysOfAWSLearning.md | July 01             |             |           |
-| Day-27-100DaysOfAWSLearning.md | July 02              |             |           |
-| Day-28-100DaysOfAWSLearning.md | July 03              |             |           |
-| Day-29-100DaysOfAWSLearning.md | July 04              |             |           |
-| Day-30-100DaysOfAWSLearning.md | July 05              |             |           |
-| Day-31-100DaysOfAWSLearning.md | Aug  06              |             |           |
-
+| Day-26-100DaysOfAWSLearning.md | Aug 01             |             |           |
+| Day-27-100DaysOfAWSLearning.md | Aug 02              |             |           |
+| Day-28-100DaysOfAWSLearning.md | Aug 03              |             |           |
+| Day-29-100DaysOfAWSLearning.md | Aug 04              |             |           |
+| Day-30-100DaysOfAWSLearning.md | Aug 05              |             |           |
+| Day-31-100DaysOfAWSLearning.md | Aug  07              |             |           |
+| Day-32-100DaysOfAWSLearning.md | Aug  08              |             |           |
+| Day-33-100DaysOfAWSLearning.md | Aug  09              |             |           |
+| Day-34-100DaysOfAWSLearning.md | Aug  10              |             |           |
+| Day-35-100DaysOfAWSLearning.md | Aug  11              |             |           |
+| Day-36-100DaysOfAWSLearning.md | Aug  12              |             |           |
