@@ -39,3 +39,5 @@
 | Day-34-100DaysOfAWSLearning.md | Aug  10              |             |           |
 | Day-35-100DaysOfAWSLearning.md | Aug  11              |             |           |
 | Day-36-100DaysOfAWSLearning.md | Aug  12              |             |           |
+| Day-37-100DaysOfAWSLearning.md | Aug  13              |             |           |
+| Day-38-100DaysOfAWSLearning.md | Aug  14              |             |           |
