@@ -41,3 +41,4 @@
 | Day-36-100DaysOfAWSLearning.md | Aug  12              |             |           |
 | Day-37-100DaysOfAWSLearning.md | Aug  13              |             |           |
 | Day-38-100DaysOfAWSLearning.md | Aug  14              |             |           |
+| Day-39-100DaysOfAWSLearning.md | Aug  15              | Amazon CloudFront             | [Day 39](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-39-100DaysOfAWSLearning.md)           |
