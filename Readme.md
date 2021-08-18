@@ -42,3 +42,4 @@
 | Day-37-100DaysOfAWSLearning.md | Aug  13              |             |           |
 | Day-38-100DaysOfAWSLearning.md | Aug  14              |             |           |
 | Day-39-100DaysOfAWSLearning.md | Aug  15              | Amazon CloudFront             | [Day 39](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-39-100DaysOfAWSLearning.md)           |
+| Day-40-100DaysOfAWSLearning.md | Aug  16              | Amazon VPC            | [Day 40](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-40-100DaysOfAWSLearning.md)           |
