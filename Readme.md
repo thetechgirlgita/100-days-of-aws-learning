@@ -43,7 +43,7 @@
 | Day-38-100DaysOfAWSLearning.md | Aug  14              |             |           |
 | Day-39-100DaysOfAWSLearning.md | Aug  15              | Amazon CloudFront             | [Day 39](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-39-100DaysOfAWSLearning.md)           |
 | Day-40-100DaysOfAWSLearning.md | Aug  16              | Amazon VPC            | [Day 40](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-40-100DaysOfAWSLearning.md) |
-| Day-41-100DaysOfAWSLearning.md | Aug  17              |           | [Day 41](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-41-100DaysOfAWSLearning.md) |
+| Day-41-100DaysOfAWSLearning.md | Aug  17              |Amazon AppMesh           | [Day 41](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-41-100DaysOfAWSLearning.md) |
 | Day-42-100DaysOfAWSLearning.md | Aug  18              | Amazon Cloud Map | [Day 42](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-42-100DaysOfAWSLearning.md)           |
 | Day-43-100DaysOfAWSLearning.md | Aug  19              | Amazon Direct Connect | [Day 43](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-43-100DaysOfAWSLearning.md)           |
 | Day-44-100DaysOfAWSLearning.md | Aug  20              | Amazon Global Accelerator | [Day 44](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-44-100DaysOfAWSLearning.md)           |
