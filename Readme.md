@@ -47,5 +47,5 @@
 | Day-42-100DaysOfAWSLearning.md | Aug  18              | Amazon Cloud Map | [Day 42](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-42-100DaysOfAWSLearning.md)           |
 | Day-43-100DaysOfAWSLearning.md | Aug  19              | Amazon Direct Connect | [Day 43](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-43-100DaysOfAWSLearning.md)           |
 | Day-44-100DaysOfAWSLearning.md | Aug  20              | Amazon Global Accelerator | [Day 44](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-44-100DaysOfAWSLearning.md)           |
-| Day-45-100DaysOfAWSLearning.md | Aug  21              | Amazon Global Accelerator | [Day 45](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-45-100DaysOfAWSLearning.md)           |
+| Day-45-100DaysOfAWSLearning.md | Aug  21              | Amazon PrivateLink | [Day 45](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-45-100DaysOfAWSLearning.md)           |
 | Day-46-100DaysOfAWSLearning.md | Aug  22              | Amazon Global Accelerator | [Day 46](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-46-100DaysOfAWSLearning.md)           |
