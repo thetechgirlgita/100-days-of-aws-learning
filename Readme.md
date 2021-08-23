@@ -49,3 +49,4 @@
 | Day-44-100DaysOfAWSLearning.md | Aug  20              | Amazon Global Accelerator | [Day 44](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-44-100DaysOfAWSLearning.md)           |
 | Day-45-100DaysOfAWSLearning.md | Aug  21              | Amazon PrivateLink | [Day 45](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-45-100DaysOfAWSLearning.md)           |
 | Day-46-100DaysOfAWSLearning.md | Aug  22              | Amazon Transit Gateway | [Day 46](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-46-100DaysOfAWSLearning.md)           |
+| Day-47-100DaysOfAWSLearning.md | Aug  23              | Amazon VPC | [Day 47](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-47-100DaysOfAWSLearning.md)           |
