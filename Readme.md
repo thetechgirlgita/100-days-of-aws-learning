@@ -51,4 +51,4 @@
 | Day-46-100DaysOfAWSLearning.md | Aug  22              | Amazon Transit Gateway | [Day 46](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-46-100DaysOfAWSLearning.md)           |
 | Day-47-100DaysOfAWSLearning.md | Aug  23              | Amazon VPC | [Day 47](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-47-100DaysOfAWSLearning.md)           |
 | Day-48-100DaysOfAWSLearning.md | Aug  24              | Amazon Load Balancing | [Day 48](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-48-100DaysOfAWSLearning.md)           |
-| Day-49-100DaysOfAWSLearning.md | Aug  25              | Amazon Load Balancing | [Day 49](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-48-100DaysOfAWSLearning.md)           |
+| Day-49-100DaysOfAWSLearning.md | Aug  25              | Amazon Load Balancing | [Day 49](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-49-100DaysOfAWSLearning.md)           |
