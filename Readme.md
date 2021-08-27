@@ -53,5 +53,5 @@
 | Day-48-100DaysOfAWSLearning.md | Aug  24              | Amazon Load Balancing | [Day 48](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-48-100DaysOfAWSLearning.md)           |
 | Day-49-100DaysOfAWSLearning.md | Aug  25              | Amazon Aurora | [Day 49](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-49-100DaysOfAWSLearning.md)           |
 | Day-50-100DaysOfAWSLearning.md | Aug  26              | Amazon Dynamo DB | [Day 50](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-50-100DaysOfAWSLearning.md)           |
-| Day-51-100DaysOfAWSLearning.md | Aug  26              | Amazon Dynamo DB | [Day 50](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-50-100DaysOfAWSLearning.md)           |
+| Day-51-100DaysOfAWSLearning.md | Aug  27              | Amazon Dynamo DB | [Day 50](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-50-100DaysOfAWSLearning.md)           |
 Amazon Keyspaces (for Apache Cassandra)
