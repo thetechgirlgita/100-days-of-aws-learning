@@ -56,4 +56,4 @@
 | Day-51-100DaysOfAWSLearning.md | Aug  27       |Amazon Keyspaces (for Apache Cassandra)| [Day 51](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-51-100DaysOfAWSLearning.md)  |
 | Day-52-100DaysOfAWSLearning.md | Aug  28       |Amazon Neptune| [Day 52](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-52-100DaysOfAWSLearning.md)  |
 | Day-53-100DaysOfAWSLearning.md | Aug  29       |Amazon Timestream| [Day 53](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-53-100DaysOfAWSLearning.md)  |
-| Day-54-100DaysOfAWSLearning.md | Aug  30       |Amazon DocumentDB (with MongoDB compatibility)| [Day 54](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-53-100DaysOfAWSLearning.md)  |
+| Day-54-100DaysOfAWSLearning.md | Aug  30       |Amazon DocumentDB (with MongoDB compatibility)| [Day 54](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-54-100DaysOfAWSLearning.md)  |
