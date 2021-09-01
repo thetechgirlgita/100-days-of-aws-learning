@@ -1,7 +1,7 @@
 <h1> Day 56/100DaysOfAWSLearning </h1>
 <h2> Topics: </h2>
 
- <h2>  - Amazon Network Service: </h2>
+ <h2>  - Amazon Security, Identity, and Compliance Service: </h2>
 
 <h3> - Amazon Cognito </h3>
          -  Introduction <br>
