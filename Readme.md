@@ -59,3 +59,4 @@
 | Day-54-100DaysOfAWSLearning.md | Aug  30       |Amazon DocumentDB (with MongoDB compatibility)| [Day 54](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-54-100DaysOfAWSLearning.md)  |
 | Day-55-100DaysOfAWSLearning.md | Aug  31      |Amazon Quantum Ledger Database (QLDB)| [Day 55](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-55-100DaysOfAWSLearning.md)  |
 | Day-56-100DaysOfAWSLearning.md | Sep  1      |Amazon Cognito| [Day 56](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-56-100DaysOfAWSLearning.md)  |
+| Day-56-100DaysOfAWSLearning.md | Sep  1      |Amazon Cognito| [Day 56](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-56-100DaysOfAWSLearning.md)  |
