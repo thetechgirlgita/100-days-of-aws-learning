@@ -62,4 +62,4 @@
 | Day-57-100DaysOfAWSLearning.md | Sep  2      |Amazon Cloud Directory| [Day 57](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-57-100DaysOfAWSLearning.md)  |
 | Day-58-100DaysOfAWSLearning.md | Sep  3      |Amazon Detective| [Day 58](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-58-100DaysOfAWSLearning.md)  |
 | Day-59-100DaysOfAWSLearning.md | Sep  4      |Amazon GuardDuty| [Day 59](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-59-100DaysOfAWSLearning.md)  |
-| Day-59-100DaysOfAWSLearning.md | Sep  4      |Amazon GuardDuty| [Day 59](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-59-100DaysOfAWSLearning.md)  |
+| Day-60-100DaysOfAWSLearning.md | Sep  4      |Amazon GuardDuty| [Day 59](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-59-100DaysOfAWSLearning.md)  |
