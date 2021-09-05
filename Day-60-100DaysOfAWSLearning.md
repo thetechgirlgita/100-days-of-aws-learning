@@ -6,7 +6,6 @@
 <h3> - Amazon Inspector </h3>
          - Introduction <br>
          - Benefits <br>
-        
          - Features <br>
          
          
