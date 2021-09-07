@@ -64,4 +64,4 @@
 | Day-59-100DaysOfAWSLearning.md | Sep  4      |Amazon GuardDuty| [Day 59](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-59-100DaysOfAWSLearning.md)  |
 | Day-60-100DaysOfAWSLearning.md | Sep  5      |Amazon Inspector| [Day 60](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-60-100DaysOfAWSLearning.md)  |
 | Day-61-100DaysOfAWSLearning.md | Sep  6      |Amazon Macie| [Day 61](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-61-100DaysOfAWSLearning.md)  |
-| Day-62-100DaysOfAWSLearning.md | Sep  7     |Amazon Airfact| [Day 61](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-61-100DaysOfAWSLearning.md)  |
+| Day-62-100DaysOfAWSLearning.md | Sep  7     |Amazon Airfact| [Day 62](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-61-100DaysOfAWSLearning.md)  |
