@@ -3,7 +3,7 @@
 
  <h2>  - Amazon Security, Identity, and Compliance Service: </h2>
 
-<h3> - Amazon Artifact </h3>
+<h3> - Amazon Audit Manager </h3>
          - Introduction <br>
          - Benefits <br> 
          - Use Cases <br>
@@ -12,5 +12,5 @@
          
          
 
-<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_1.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_1(2).jpg?raw=true">
 <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_1.jpg?raw=true">
