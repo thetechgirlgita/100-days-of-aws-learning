@@ -8,9 +8,7 @@
          - Benefits <br> 
          - Use Cases <br>
          - Features <br>
-        
-         
-         
+       
 
-<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_2(1).jpg?raw=true">
 <img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_1.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_2.jpg?raw=true">
