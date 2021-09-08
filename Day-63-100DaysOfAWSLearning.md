@@ -6,10 +6,11 @@
 <h3> - Amazon Artifact </h3>
          - Introduction <br>
          - Benefits <br> 
-         -Use Cases <br>
+         - Use Cases <br>
          - Features <br>
         
          
          
 
-<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63.1.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_1.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day63/63_1.jpg?raw=true">
