@@ -65,4 +65,4 @@
 | Day-60-100DaysOfAWSLearning.md | Sep  5      |Amazon Inspector| [Day 60](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-60-100DaysOfAWSLearning.md)  |
 | Day-61-100DaysOfAWSLearning.md | Sep  6      |Amazon Macie| [Day 61](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-61-100DaysOfAWSLearning.md)  |
 | Day-62-100DaysOfAWSLearning.md | Sep  7     |Amazon Artifact| [Day 62](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-62-100DaysOfAWSLearning.md)  |
-| Day-63-100DaysOfAWSLearning.md | Sep  7     |Amazon Artifact| [Day 62](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-62-100DaysOfAWSLearning.md)  |
+| Day-63-100DaysOfAWSLearning.md | Sep  8     |Amazon Artifact| [Day 62](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-62-100DaysOfAWSLearning.md)  |
