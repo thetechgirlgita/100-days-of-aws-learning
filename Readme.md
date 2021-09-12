@@ -2,7 +2,7 @@
  <h2> In this Repository you will be found Every notes and recap of AWS services </h2>
  
 | Day                            | Date                 | Topic       | Post link |
-| -----------------------------  | -----------          | ----------- |-----------|
+| -----------------------------  |-----------          | ----------- |-----------|
 | Day-1-100DaysOfAWSLearning.md  | June 30              |AWS Intro and History| [Day 1](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-1-100DaysOfAWSLearning.md)          |
 | Day-2-100DaysOfAWSLearning.md  |July 03              |Amazon Elastic Search             | [Day 2](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-2-100DaysOfAWSLearning.md)          |
 | Day-3-100DaysOfAWSLearning.md  | July 04              | Amazon Elastic MapReduce            | [Day 3](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-3-100DaysOfAWSLearning.md)          |
