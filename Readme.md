@@ -68,4 +68,4 @@
 | Day-63-100DaysOfAWSLearning.md | Sep  8     |Amazon Audit Manager| [Day 63](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-63-100DaysOfAWSLearning.md)  |
 | Day-64-100DaysOfAWSLearning.md | Sep  9     | Amazon Certificate Manager|[Day 64](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-64-100DaysOfAWSLearning.md) |
 | Day-65-100DaysOfAWSLearning.md | Sep  13     | Amazon CloudHSM|[Day 65](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-65-100DaysOfAWSLearning.md) |
-| Day-65-100DaysOfAWSLearning.md | Sep  13     | Amazon CloudHSM|[Day 65](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-65-100DaysOfAWSLearning.md) |
+| Day-66-100DaysOfAWSLearning.md | Sep  13     | Amazon CloudHSM|[Day 65](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-65-100DaysOfAWSLearning.md) |
