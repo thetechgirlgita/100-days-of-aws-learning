@@ -69,4 +69,4 @@
 | Day-64-100DaysOfAWSLearning.md | Sep  9     | Amazon Certificate Manager|[Day 64](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-64-100DaysOfAWSLearning.md) |
 | Day-65-100DaysOfAWSLearning.md | Sep  13     | Amazon CloudHSM|[Day 65](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-65-100DaysOfAWSLearning.md) |
 | Day-66-100DaysOfAWSLearning.md | Sep  14     | Amazon Directory Service|[Day 66](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-66-100DaysOfAWSLearning.md) |
-| Day-67-100DaysOfAWSLearning.md | Sep  14     | Amazon Directory Service|[Day 66](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-66-100DaysOfAWSLearning.md) |
+| Day-67-100DaysOfAWSLearning.md | Sep  15     | Amazon Directory Service|[Day 66](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-66-100DaysOfAWSLearning.md) |
