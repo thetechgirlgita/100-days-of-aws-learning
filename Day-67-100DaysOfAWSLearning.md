@@ -6,7 +6,6 @@
 <h3> - AWS Firewall Manager </h3>
          - Introduction <br>
          - Benefits <br> 
-         - Use Cases <br>
          - Features <br>
        
 
