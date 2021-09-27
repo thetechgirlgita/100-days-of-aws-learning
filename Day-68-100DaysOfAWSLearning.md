@@ -6,6 +6,7 @@
 <h3> - AWS Identity and Access Management</h3>
          - Introduction <br>
          - Benefits <br> 
+         - Use Cases <br>
          - Features <br>
        
 
