@@ -3,7 +3,7 @@
 
  <h2>  - Amazon Security, Identity, and Compliance Service: </h2>
 
-<h3> - AWS Firewall Manager </h3>
+<h3> - AWS Identity and Access Management</h3>
          - Introduction <br>
          - Benefits <br> 
          - Features <br>
