@@ -6,7 +6,6 @@
 <h3> - AWS Key Management Service</h3>
          - Introduction <br>
          - Benefits <br> 
-         - Use Cases <br>
          - Features <br>
          
   <h3>   </h3>
