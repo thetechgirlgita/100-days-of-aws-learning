@@ -71,4 +71,4 @@
 | Day-66-100DaysOfAWSLearning.md | Sep  14     | Amazon Directory Service|[Day 66](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-66-100DaysOfAWSLearning.md) |
 | Day-67-100DaysOfAWSLearning.md | Sep  15     | Amazon Firewall Manager |[Day 67](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-67-100DaysOfAWSLearning.md) |
 | Day-68-100DaysOfAWSLearning.md | Sep  27     | AWS Identity and Access Management |[Day 68](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-68-100DaysOfAWSLearning.md) |
-| Day-69-100DaysOfAWSLearning.md | Sep  28     | AWS Identity and Access Management |[Day 68](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-68-100DaysOfAWSLearning.md) |
+| Day-69-100DaysOfAWSLearning.md | Sep  28     | AWS Identity and Access Management |[Day 69](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-68-100DaysOfAWSLearning.md) |
