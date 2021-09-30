@@ -73,3 +73,4 @@
 | Day-68-100DaysOfAWSLearning.md | Sep  27     | AWS Identity and Access Management |[Day 68](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-68-100DaysOfAWSLearning.md) |
 | Day-69-100DaysOfAWSLearning.md | Sep  28     | AWS Key Management Service  |[Day 69](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-69-100DaysOfAWSLearning.md) |
 | Day-70-100DaysOfAWSLearning.md | Sep  29     | AWS Network Firewall |[Day70](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-70-100DaysOfAWSLearning.md) |
+| Day-70-100DaysOfAWSLearning.md | Sep  29     | AWS Network Firewall |[Day70](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-70-100DaysOfAWSLearning.md) |
