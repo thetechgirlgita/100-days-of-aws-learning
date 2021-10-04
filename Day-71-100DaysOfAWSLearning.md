@@ -6,8 +6,7 @@
 <h3> - AWS Network Firewall</h3>
          - Introduction <br>
          - Benefits <br> 
-         - Use cases <br>
-         - Features <br>
+     
          
   <h3>   </h3>
        
