@@ -6,6 +6,7 @@
 <h3> - AWS Resource Acess Manager</h3>
          - Introduction <br>
          - Benefits <br> 
+         - Features <br>
      
          
   <h3>   </h3>
