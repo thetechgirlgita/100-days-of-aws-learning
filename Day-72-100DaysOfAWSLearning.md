@@ -12,5 +12,5 @@
   <h3>   </h3>
        
 
-<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day72/71.jpg?raw=true">
-<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day72/71.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day72/72_1.jpg?raw=true">
+<img src = "https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Images/Day72/72_2.jpg?raw=true">
