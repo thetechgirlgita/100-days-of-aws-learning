@@ -77,4 +77,4 @@
 | Day-72-100DaysOfAWSLearning.md | Oct 5   | AWS Secrets Mnager |[Day72](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-72-100DaysOfAWSLearning.md)|
 | Day-73-100DaysOfAWSLearning.md | Oct 6   | AWS Security Hub      |[Day73](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-73-100DaysOfAWSLearning.md)|
 | Day-74-100DaysOfAWSLearning.md | Oct 7   | AWS Sheild     |[Day74](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-74-100DaysOfAWSLearning.md)|
-| Day-75-100DaysOfAWSLearning.md | Oct 7   | AWS Sheild     |[Day74](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-74-100DaysOfAWSLearning.md)|
+| Day-75-100DaysOfAWSLearning.md | Oct 8   | AWS Sheild     |[Day74](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-74-100DaysOfAWSLearning.md)|
