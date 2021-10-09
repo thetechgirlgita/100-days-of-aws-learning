@@ -78,4 +78,4 @@
 | Day-73-100DaysOfAWSLearning.md | Oct 6   | AWS Security Hub      |[Day73](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-73-100DaysOfAWSLearning.md)|
 | Day-74-100DaysOfAWSLearning.md | Oct 7   | AWS Sheild     |[Day74](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-74-100DaysOfAWSLearning.md)|
 | Day-75-100DaysOfAWSLearning.md | Oct 8   | AWS Single Sign-On     |[Day75](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-75-100DaysOfAWSLearning.md)|
-| Day-76-100DaysOfAWSLearning.md | Oct 9   | AWS Single Sign-On     |[Day76](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-76-100DaysOfAWSLearning.md)|
+| Day-76-100DaysOfAWSLearning.md | Oct 9   | AWS WAF     |[Day76](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-76-100DaysOfAWSLearning.md)|
