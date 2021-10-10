@@ -3,7 +3,7 @@
 
  <h2>  - Amazon Security, Identity, and Compliance Service: </h2>
 
-<h3> - AWS Single Sign-On</h3>
+<h3> - AWS WAF</h3>
          - Introduction <br>
          - Benefits <br> 
          - Features <br>
