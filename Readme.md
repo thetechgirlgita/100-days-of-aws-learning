@@ -8,7 +8,7 @@
 | Day-3-100DaysOfAWSLearning.md  | July 04              | Amazon Elastic MapReduce  | [Day 3](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-3-100DaysOfAWSLearning.md)          |
 | Day-4-100DaysOfAWSLearning.md  | July 05              | Amazon Anthena |[Day 4](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-4-100DaysOfAWSLearning.md) |
 | Day-5-100DaysOfAWSLearning.md  | July 06              |  Amazon Aurora and Amazon ElasticCache     |[Day 5](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-5-100DaysOfAWSLearning.md)           |
-| Day-6-100DaysOfAWSLearning.md  | July 07              |             |[Day 6](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-6-100DaysOfAWSLearning.md)           |
+| Day-6-100DaysOfAWSLearning.md  | July 07              |   Amazon Ec2          |[Day 6](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-6-100DaysOfAWSLearning.md)           |
 | Day-7-100DaysOfAWSLearning.md  | July 08              |             |[Day 7](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-7-100DaysOfAWSLearning.md)           |
 | Day-8-100DaysOfAWSLearning.md  | July 09              |             | [Day 8](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-8-100DaysOfAWSLearning.md)          |
 | Day-9-100DaysOfAWSLearning.md  | July 10              |             |[Day 9](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-9-100DaysOfAWSLearning.md)           |
