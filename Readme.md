@@ -79,4 +79,4 @@
 | Day-74-100DaysOfAWSLearning.md | Oct 7   | AWS Sheild     |[Day74](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-74-100DaysOfAWSLearning.md)|
 | Day-75-100DaysOfAWSLearning.md | Oct 8   | AWS Single Sign-On     |[Day75](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-75-100DaysOfAWSLearning.md)|
 | Day-76-100DaysOfAWSLearning.md | Oct 9   | AWS WAF     |[Day76](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-76-100DaysOfAWSLearning.md)|
-| Day-77-100DaysOfAWSLearning.md | Oct 23   | AWS AWS Application Migration Service     |[Day76](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-76-100DaysOfAWSLearning.md)|
+| Day-77-100DaysOfAWSLearning.md | Oct 23   | AWS AWS Application Migration Service     |[Day77](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-76-100DaysOfAWSLearning.md)|
