@@ -3,7 +3,7 @@
 
  <h2>  - Amazon Migration and Transfer : </h2>
 
-<h3> - AWS WAF</h3>
+<h3> - AWS Application Migration Service</h3>
          - Introduction <br>
          - Benefits <br> 
          - Features <br>
