@@ -4,7 +4,7 @@
  <h2>  - Amazon Migration and Transfer : </h2>
 
 
-<h3> - AWS Application Discovery Service</h3>
+<h3> - AWS Database Migrations Service</h3>
          - Introduction <br>
          - Benefits <br> 
          - Feature <br>
