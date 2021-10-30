@@ -85,4 +85,4 @@
 | Day-80-100DaysOfAWSLearning.md | Oct 26   | AWS Application Delivery Service |[Day80](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-80-100DaysOfAWSLearning.md)|
 | Day-81-100DaysOfAWSLearning.md | Oct 27   | AWS Snowfamily |[Day81](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-81-100DaysOfAWSLearning.md)|
 
-| Day-82-100DaysOfAWSLearning.md | Oct 28   | AWS Server Migration Servide | [Day82](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-82-100DaysOfAWSLearning.md)|
+| Day-82-100DaysOfAWSLearning.md | Oct 28 |AWS Server Migration |[Day82](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-82-100DaysOfAWSLearning.md)|
