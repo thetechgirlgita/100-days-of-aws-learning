@@ -1,10 +1,10 @@
-<h1> Day 82/100DaysOfAWSLearning </h1>
+<h1> Day 83/100DaysOfAWSLearning </h1>
 <h2> Topics: </h2>
 
  <h2>  - Amazon Migration and Transfer : </h2>
 
 
-<h3> - AWS Server Migration Service </h3>
+<h3> - AWS Snow mobile </h3>
                 
     
 
