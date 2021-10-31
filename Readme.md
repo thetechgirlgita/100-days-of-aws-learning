@@ -86,4 +86,4 @@
 | Day-81-100DaysOfAWSLearning.md | Oct 27   | AWS Snowfamily |[Day81](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-81-100DaysOfAWSLearning.md)|
 | Day-82-100DaysOfAWSLearning.md | Oct 28 | AWS Server Migration |[Day82](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-82-100DaysOfAWSLearning.md)|
 | Day-83-100DaysOfAWSLearning.md | Oct 30 | AWS Snowball |[Day83](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-83-100DaysOfAWSLearning.md)|
-| Day-84-100DaysOfAWSLearning.md | Oct 30 | AWS Snowball |[Day83](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-83-100DaysOfAWSLearning.md)|
+| Day-84-100DaysOfAWSLearning.md | Oct 31 | AWS Snowball |[Day83](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-83-100DaysOfAWSLearning.md)|
