@@ -4,7 +4,7 @@
  <h2>  - Amazon Migration and Transfer : </h2>
 
 
-<h3> - AWS DataSync </h3> 
+<h3> - AWS Transfer Family </h3> 
       - Introduction <br>
       - Use Cases <br>
       - Features <br>
