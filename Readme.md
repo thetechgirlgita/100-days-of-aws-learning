@@ -88,4 +88,4 @@
 | Day-83-100DaysOfAWSLearning.md | Oct 30 | AWS Snowball |[Day83](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-83-100DaysOfAWSLearning.md)|
 | Day-84-100DaysOfAWSLearning.md | Oct 31 | AWS Snowmobile |[Day84](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-84-100DaysOfAWSLearning.md)|
 | Day-85-100DaysOfAWSLearning.md | Nov 01 | AWS DataSync |[Day85](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-85-100DaysOfAWSLearning.md)|
-| Day-85-100DaysOfAWSLearning.md | Nov 01 | AWS DataSync |[Day85](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-85-100DaysOfAWSLearning.md)|
+| Day-86-100DaysOfAWSLearning.md | Nov 01 | AWS DataSync |[Day85](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-85-100DaysOfAWSLearning.md)|
