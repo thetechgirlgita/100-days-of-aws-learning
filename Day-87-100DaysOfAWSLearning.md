@@ -4,7 +4,7 @@
  <h2>  - Amazon Front-End Web & Mobile Services : </h2>
 
 
-<h3> - AWS Transfer Family </h3> 
+<h3> - AWS Location Service </h3> 
       - Introduction <br>
       - Use Cases <br>
       - Features <br>
