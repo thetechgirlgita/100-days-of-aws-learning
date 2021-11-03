@@ -6,6 +6,7 @@
 
 <h3> - AWS Location Service </h3> 
       - Introduction <br>
+      - Benefits <br>
       - Use Cases <br>
       - Features <br>
       
