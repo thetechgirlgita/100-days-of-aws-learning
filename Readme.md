@@ -89,4 +89,4 @@
 | Day-84-100DaysOfAWSLearning.md | Oct 31 | AWS Snowmobile |[Day84](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-84-100DaysOfAWSLearning.md)|
 | Day-85-100DaysOfAWSLearning.md | Nov 01 | AWS DataSync |[Day85](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-85-100DaysOfAWSLearning.md)|
 | Day-86-100DaysOfAWSLearning.md | Nov 02 | AWS Transfer Family |[Day86](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-86-100DaysOfAWSLearning.md)|
-| Day-87-100DaysOfAWSLearning.md | Nov 03 | AWS Transfer Family |[Day86](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-86-100DaysOfAWSLearning.md)|
+| Day-87-100DaysOfAWSLearning.md | Nov 03 | AWS Location Service |[Day86](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-86-100DaysOfAWSLearning.md)|
