@@ -4,9 +4,8 @@
  <h2>  - Amazon Front-End Web & Mobile Services : </h2>
 
 
-<h3> - AWS PinPoint </h3> 
+<h3> - AWS Amplify </h3> 
       - Introduction <br>
-      - Benefits <br>
       - Use Cases <br>
       - Features <br>
       
