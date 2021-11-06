@@ -91,3 +91,4 @@
 | Day-86-100DaysOfAWSLearning.md | Nov 02 | AWS Transfer Family |[Day86](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-86-100DaysOfAWSLearning.md)|
 | Day-87-100DaysOfAWSLearning.md | Nov 03 | AWS Location Service |[Day87](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-87-100DaysOfAWSLearning.md)|
 | Day-88-100DaysOfAWSLearning.md | Nov 05 | AWS Pinpoint |[Day88](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-88-100DaysOfAWSLearning.md)|
+| Day-88-100DaysOfAWSLearning.md | Nov 05 | AWS Pinpoint |[Day88](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-88-100DaysOfAWSLearning.md)|
