@@ -93,4 +93,4 @@
 | Day-88-100DaysOfAWSLearning.md | Nov 05 | AWS Pinpoint |[Day88](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-88-100DaysOfAWSLearning.md)|
 | Day-89-100DaysOfAWSLearning.md | Nov 06 | AWS Amplify |[Day89](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-89-100DaysOfAWSLearning.md)|
 | Day-90-100DaysOfAWSLearning.md | Nov 07 | AWS Device Farm |[Day90](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-90-100DaysOfAWSLearning.md)|
-| Day-91-100DaysOfAWSLearning.md | Nov 08 | AWS Device Farm |[Day90](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-90-100DaysOfAWSLearning.md)|
+| Day-91-100DaysOfAWSLearning.md | Nov 08 | AWS Device Farm |[Day91](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-90-100DaysOfAWSLearning.md)|
