@@ -5,7 +5,7 @@
 
 
 <h2> - Amazon Frontend And Web Development Services : </h2>
-  <h3> - Amazon Device Farm </h3>
+  <h3> - Amazon AppSync </h3>
           - Introduction <br>
           - Benefits <br>
         
