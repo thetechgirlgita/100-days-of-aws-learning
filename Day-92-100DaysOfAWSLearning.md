@@ -8,7 +8,7 @@
   <h3> - Amazon Corretto </h3>
           - Introduction <br>
           - Benefits <br>
-          - Use Cases <br>
+         
         
    
    <h2> Here you have notes in Simple and easy way </h2>
