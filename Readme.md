@@ -95,3 +95,5 @@
 | Day-90-100DaysOfAWSLearning.md | Nov 07 | AWS Device Farm |[Day90](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-90-100DaysOfAWSLearning.md)|
 | Day-91-100DaysOfAWSLearning.md | Nov 08 | AWS AppSync |[Day91](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-91-100DaysOfAWSLearning.md)|
 | Day-92-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
+
+| Day-92-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
