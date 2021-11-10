@@ -96,4 +96,4 @@
 | Day-91-100DaysOfAWSLearning.md | Nov 08 | AWS AppSync |[Day91](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-91-100DaysOfAWSLearning.md)|
 | Day-92-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
 
-| Day-93-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
+| Day-93-100DaysOfAWSLearning.md | Nov 10 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
