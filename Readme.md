@@ -97,5 +97,5 @@
 | Day-92-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
 
 | Day-93-100DaysOfAWSLearning.md | Nov 10 | AWS Cloud9 |[Day93](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-93-100DaysOfAWSLearning.md)|
-| Day-94-100DaysOfAWSLearning.md | Nov 11 | AWS Cloud9 |[Day93](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-93-100DaysOfAWSLearning.md)|
+| Day-94-100DaysOfAWSLearning.md | Nov 11 | AWS CloudShell |[Day93](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-93-100DaysOfAWSLearning.md)|
 
