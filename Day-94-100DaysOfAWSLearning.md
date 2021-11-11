@@ -8,7 +8,6 @@
   <h3> - Amazon CloudShell </h3>
           - Introduction <br>
           - Benefits <br>
-          - Use Cases <br>
           - Features <br>
          
         
