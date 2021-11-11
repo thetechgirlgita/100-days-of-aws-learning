@@ -5,7 +5,7 @@
 
 
 <h2> - Amazon Developer Tools Services : </h2>
-  <h3> - Amazon Cloud9 </h3>
+  <h3> - Amazon CloudShell </h3>
           - Introduction <br>
           - Benefits <br>
           - Use Cases <br>
