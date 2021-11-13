@@ -5,7 +5,7 @@
 
 
 <h2> - Amazon Developer Tools Services : </h2>
-  <h3> - Amazon CloudCommit </h3>
+  <h3> - Amazon CodeCommit </h3>
           - Introduction <br>
           - Benefits <br>
           - Features <br>
