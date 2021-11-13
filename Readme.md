@@ -92,13 +92,10 @@
 | Day-87-100DaysOfAWSLearning.md | Nov 03 | AWS Location Service |[Day87](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-87-100DaysOfAWSLearning.md)|
 | Day-88-100DaysOfAWSLearning.md | Nov 05 | AWS Pinpoint |[Day88](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-88-100DaysOfAWSLearning.md)|
 | Day-89-100DaysOfAWSLearning.md | Nov 06 | AWS Amplify |[Day89](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-89-100DaysOfAWSLearning.md)|
-| Day-90-100DaysOfAWSLearning.md | Nov 07 | AWS Device Farm |[Day90](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-90-100DaysOfAWSLearning.md)|
+| Day-90-100DaysOfAWSLearning.md | Nov 07 | AWS Device Farm|[Day90](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-90-100DaysOfAWSLearning.md)|
 | Day-91-100DaysOfAWSLearning.md | Nov 08 | AWS AppSync |[Day91](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-91-100DaysOfAWSLearning.md)|
-| Day-92-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto |[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
-
-| Day-93-100DaysOfAWSLearning.md | Nov 10 | AWS Cloud9      |[Day93](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-93-100DaysOfAWSLearning.md)|
-
+| Day-92-100DaysOfAWSLearning.md | Nov 09 | AWS Corretto|[Day92](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-92-100DaysOfAWSLearning.md)|
+| Day-93-100DaysOfAWSLearning.md | Nov 10 | AWS Cloud9  |[Day93](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-93-100DaysOfAWSLearning.md)|
 | Day-94-100DaysOfAWSLearning.md | Nov 11 | AWS CloudShell |[Day94](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-94-100DaysOfAWSLearning.md)|
-
 | Day-95-100DaysOfAWSLearning.md | Nov 12 | AWS CloudBuild |[Day95](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-95-100DaysOfAWSLearning.md)|
 
