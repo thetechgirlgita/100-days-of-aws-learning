@@ -12,7 +12,7 @@
 | Day-7-100DaysOfAWSLearning.md  | July 08              |Amazon EC2 Auto Scaling |[Day 7](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-7-100DaysOfAWSLearning.md)     |
 | Day-8-100DaysOfAWSLearning.md  | July 09              |             | [Day 8](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-8-100DaysOfAWSLearning.md)          |
 | Day-9-100DaysOfAWSLearning.md  | July 10              |             |[Day 9](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-9-100DaysOfAWSLearning.md)           |
-| Day-10-100DaysOfAWSLearning.md | July 11              |             |           |
+| Day-10-100DaysOfAWSLearning.md | July 11              |             |[Day 10](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-10-100DaysOfAWSLearning.md)           |
 | Day-11-100DaysOfAWSLearning.md | July 13              |             |           |
 | Day-12-100DaysOfAWSLearning.md | July 14              |             |           |
 | Day-13-100DaysOfAWSLearning.md | July 16              |             |           |
