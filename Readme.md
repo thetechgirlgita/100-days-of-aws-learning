@@ -25,7 +25,7 @@
 | Day-20-100DaysOfAWSLearning.md | July 25              |             |  [Day 20](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-20-100DaysOfAWSLearning.md)          |
 | Day-21-100DaysOfAWSLearning.md | July 26              |             |  [Day 21](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-21-100DaysOfAWSLearning.md)          |
 | Day-22-100DaysOfAWSLearning.md | July 27              |             |   [Day 22](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-22-100DaysOfAWSLearning.md)          |
-| Day-23-100DaysOfAWSLearning.md | July 28              |             |           |
+| Day-23-100DaysOfAWSLearning.md | July 28              |             |  [Day 23](https://github.com/thetechgirlgita/100-days-of-aws-learning/blob/master/Day-22-100DaysOfAWSLearning.md)            |
 | Day-24-100DaysOfAWSLearning.md | July 29              |             |           |
 | Day-25-100DaysOfAWSLearning.md | July 30             |             |           |
 | Day-26-100DaysOfAWSLearning.md | Aug 01             |             |           |
