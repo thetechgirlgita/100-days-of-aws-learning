@@ -1,5 +1,5 @@
 <h1> 100 Days Of AWS Learning Challenge </h1>
- <h2> In this Repository you gonna find Every note and recap of AWS services </h2>
+ <h2> In this Repository, you gonna find every note and recap of AWS services </h2>
  
 | Day                            | Date                 | Topic       | Post link |
 | -----------------------------  |-----------          | ----------- |-----------|
